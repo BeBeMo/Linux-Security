@@ -5,7 +5,7 @@
 
 ## 首页及文件备份：
 
-![image](https://raw.githubusercontent.com/cassiopeiaofmax/Linux-Security/master/screenshot/%E9%A6%96%E9%A1%B5.png)
+<img src="https://raw.githubusercontent.com/cassiopeiaofmax/Linux-Security/master/screenshot/%E9%A6%96%E9%A1%B5.png" alt="GitHub"  width="500" height="3000" />
 
 ## 数据加密：
 
