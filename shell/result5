@@ -1,0 +1,15 @@
+     1	/etc/rc0.d/K05preload
+     2	/etc/rc0.d/K10unattended-upgrades
+     3	/etc/rc0.d/K20kerneloops
+     4	/etc/rc0.d/K20rsync
+     5	/etc/rc0.d/K20speech-dispatcher
+     6	/etc/rc1.d/K05preload
+     7	/etc/rc1.d/K20kerneloops
+     8	/etc/rc1.d/K20rsync
+     9	/etc/rc1.d/K20saned
+    10	/etc/rc1.d/K20speech-dispatcher
+    11	/etc/rc6.d/K05preload
+    12	/etc/rc6.d/K10unattended-upgrades
+    13	/etc/rc6.d/K20kerneloops
+    14	/etc/rc6.d/K20rsync
+    15	/etc/rc6.d/K20speech-dispatcher
