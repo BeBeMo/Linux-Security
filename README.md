@@ -7,6 +7,8 @@
 
 <img src="https://raw.githubusercontent.com/cassiopeiaofmax/Linux-Security/master/screenshot/%E9%A6%96%E9%A1%B5.png" alt="GitHub"  width="500" height="350" />
 
+<img src="https://raw.githubusercontent.com/cassiopeiaofmax/Linux-Security/master/screenshot/%E6%96%87%E4%BB%B6%E5%A4%87%E4%BB%BD.png" alt="GitHub"  width="500" height="350" />
+
 ## 数据加密：
 <img src="https://raw.githubusercontent.com/cassiopeiaofmax/Linux-Security/master/screenshot/%E6%95%B0%E6%8D%AE%E5%8A%A0%E5%AF%861.png" alt="GitHub"  width="500" height="350" />
 
